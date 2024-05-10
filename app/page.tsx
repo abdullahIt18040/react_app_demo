@@ -5,6 +5,7 @@ export default function Home() {
     <>
     <div>
       <h1>WelCome to React Apps </h1>
+      <p>fjsangs sdgksdkbskdb mEKGMKsdb</p>
     </div>
     
     </>
